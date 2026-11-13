@@ -1,0 +1,8 @@
+{
+  "name": "Remix CollegeWebsite",
+  "description": "Imported from GitHub: Sits-Student-portal7/CollegeWebsite",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
